@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ahmed;Zubair;;;
+FN:Zubair Ahmed
+ORG:HiddenBrains
+ADR;TYPE=WORK:
+TITLE:Manager Enterprise Solutions
+TEL;TYPE=CELL:+919537193809
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:zubair.ahmed@hiddenbrains.in
+URL;TYPE=Digital Business Card:
+URL:https://www.hiddenbrains.com/
+URL;TYPE=Website:https://www.hiddenbrains.com/
+URL;TYPE=WhatsApp:https://wa.me/+919537193809
+URL;TYPE=Skype:skype:biz.hbipl1?chat
+URL;TYPE=LinkedIn:https://linkedin.com/in/zubair-ahmed-bb8a3b15
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Hidden Brains, a full-service software and Mobile App Development team, committed to providing unparalleled customer value. We architect, build and deliver custom-native software solutions that leverage leadingtechnologies and platforms.
+UID:EnBizCard-100413662
+END:VCARD
